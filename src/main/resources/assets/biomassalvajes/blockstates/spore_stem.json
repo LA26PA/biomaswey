@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "biomassalvajes:block/spore_stem"
+    },
+    "axis=z": {
+      "model": "biomassalvajes:block/spore_stem",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "biomassalvajes:block/spore_stem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "biomassalvajes:block/red_mycelium_top",
+    "side": "biomassalvajes:block/red_mycelium_side",
+    "bottom": "minecraft:block/dirt"
+  }
+}

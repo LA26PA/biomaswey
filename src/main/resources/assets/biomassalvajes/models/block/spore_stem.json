@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "biomassalvajes:block/spore_stem_top",
+    "side": "biomassalvajes:block/spore_stem"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "biomassalvajes:crystal_log"
+  ],
+  "result": {
+    "id": "biomassalvajes:crystal_planks",
+    "count": 4
+  }
+}

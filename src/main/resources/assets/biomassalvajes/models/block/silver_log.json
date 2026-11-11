@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "biomassalvajes:block/silver_log_top",
+    "side": "biomassalvajes:block/silver_log"
+  }
+}

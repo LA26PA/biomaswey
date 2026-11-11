@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "biomassalvajes:volcanic_glass",
+    "biomassalvajes:amber_block",
+    "biomassalvajes:crimson_rock",
+    "biomassalvajes:pearl_block",
+    "biomassalvajes:salt_block",
+    "biomassalvajes:glacial_ice",
+    "biomassalvajes:magma_basalt"
+  ]
+}

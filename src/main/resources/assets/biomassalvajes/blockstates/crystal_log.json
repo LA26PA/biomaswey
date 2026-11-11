@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "biomassalvajes:block/crystal_log"
+    },
+    "axis=z": {
+      "model": "biomassalvajes:block/crystal_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "biomassalvajes:block/crystal_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

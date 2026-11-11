@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "biomassalvajes",
+  "version": "${version}",
+  "name": "Biomas Salvajes",
+  "description": "Biomas nuevos con bloques y estructuras propias.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.biomassalvajes.BiomasSalvajes"],
+    "terrablender": ["com.biomassalvajes.worldgen.ModTerraBlender"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*",
+    "terrablender": "*"
+  }
+}
